@@ -1,4 +1,4 @@
-created a responsive halloween website design using HTML, CSS and JavaScript 🎃
+# created a responsive halloween website design using HTML, CSS and JavaScript 🎃
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83943087/139188579-c70b7f01-cd67-45f0-9c5d-5f54410b2006.jpeg" width="700px" />
